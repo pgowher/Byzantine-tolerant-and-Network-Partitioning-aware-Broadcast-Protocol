@@ -1,5 +1,5 @@
 /* C++-11: RANDOM TOPOLOGY WITH ALL NORMAL NODES
-   /Program to simulate the multi-hop message broadcast in a network.
+   /Program to simulate the multi-hop message broadcast in arbitrary networks with Byzantine nodes resulting in network partitioning.
    / The program displays the probabilities of different nodes receiving a
    / broadcast packet after each round of broadcast. The simulation terminates
    / once each node has reached a 'Threshold" probability.
